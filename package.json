@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "algoliasearch": "3.30.0",
+    "debug": "~2.3.3",
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-instantsearch-dom": "5.3.1",
